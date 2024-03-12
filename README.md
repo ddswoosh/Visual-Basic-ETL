@@ -1,4 +1,14 @@
 # VBA-Macro
-Visual Basic Automation Script
 
-Reduce deployment time of daily reports by automating the transform/load sequence using Visual Basic.
+## This Visual Basic script was created to automatically grab and transform data into human readable format.
+## Reduced employee input by >2 Hours per day. Allow to swift action on critical data
+
+
+# Tech Stack
+*Visual Basic
+*Visual Studio
+*.Net 8 Core
+*Microsoft Excel
+
+
+
